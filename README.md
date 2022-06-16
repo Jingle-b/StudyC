@@ -1,6 +1,6 @@
 # Study C Basic
 C학습 리포지토리
-
+![C_logo](https://raw.githubusercontent.com/Jingle-b/StudyC-Kasan/main/images/C_logo.png)
 <br/>
 
 ## Day 1
