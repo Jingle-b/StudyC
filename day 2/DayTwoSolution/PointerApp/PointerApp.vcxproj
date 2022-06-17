@@ -19,7 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="array_ptr_main.c" />
     <ClCompile Include="arr_ptr_main2.c" />
+    <ClCompile Include="Const_ptr_main.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="ptr_main.c" />
+    <ClCompile Include="size_ptr_main.c" />
+    <ClCompile Include="swap_main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
